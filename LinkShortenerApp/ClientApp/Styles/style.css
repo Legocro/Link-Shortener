@@ -1,0 +1,27 @@
+body {
+    background-color: #FAF0E6;
+}
+
+.header {
+    background-color: #352F44;
+}
+
+.title {
+    color: #FAF0E6;
+}
+
+.form-container {
+    margin-top: 7em;
+}
+
+.links-container {
+    margin-top: 7em;
+    min-height: 10em;
+    border-color: black;
+    border-width: 0.1em;
+    border-style: solid;
+}
+
+.card-row {
+    height: 50%;
+}
